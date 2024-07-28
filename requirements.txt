@@ -1,4 +1,4 @@
 streamlit==1.37.0
 streamlit-option-menu==0.3.13
-difflib
+diff-match-patch==20200713
 scikit-learn==1.2.2
